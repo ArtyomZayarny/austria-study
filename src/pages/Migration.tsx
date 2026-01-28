@@ -1,5 +1,5 @@
 import { Link } from "wouter";
-import { ArrowRight, Check, FileText } from "lucide-react";
+import { Check, FileText } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ContactForm } from "@/components/shared/ContactForm";
 

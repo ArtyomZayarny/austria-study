@@ -1,4 +1,4 @@
-import { Check, Home, Shield, Landmark, Languages, Truck } from "lucide-react";
+import { Home, Shield, Landmark, Languages, Truck } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
 

@@ -34,7 +34,7 @@ export function ContactForm() {
     },
   });
 
-  function onSubmit(data: ContactFormData) {
+  function onSubmit(_data: ContactFormData) {
     setIsSubmitting(true);
     
     // Simulate API call
